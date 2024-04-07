@@ -20,8 +20,8 @@
         "**/pnpm-lock.yaml": true,
         "**/yarn.lock": true,
         "**/package-lock.json": true,
-        "**/.gitignore": true,
-        "**/Readme.md": true,
+        // "**/.gitignore": true,
+        // "**/Readme.md": true,
         // "**/.gitmodules": true,
 
         "**/api": true,

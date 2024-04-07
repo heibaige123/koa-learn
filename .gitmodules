@@ -4,3 +4,6 @@
 [submodule "compose"]
 	path = compose
 	url = git@github.com:heibaige123/compose.git
+[submodule "node-delegates"]
+	path = node-delegates
+	url = git@github.com:heibaige123/node-delegates.git
