@@ -7,3 +7,6 @@
 [submodule "node-delegates"]
 	path = node-delegates
 	url = git@github.com:heibaige123/node-delegates.git
+[submodule "akb"]
+	path = akb
+	url = git@github.com:heibaige123/akb.git
