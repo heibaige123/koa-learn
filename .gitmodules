@@ -1,3 +1,6 @@
 [submodule "koa"]
 	path = koa
 	url = git@github.com:heibaige123/koa.git
+[submodule "compose"]
+	path = compose
+	url = git@github.com:heibaige123/compose.git
