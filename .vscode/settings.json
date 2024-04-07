@@ -1,0 +1,31 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+
+        "**/__tests__": true,
+        "**/.github": true,
+        "**/test-helpers": true,
+        "**/.codecov.yml": true,
+        "**/.editorconfig": true,
+        "**/.mailmap": true,
+        "**/AUTHORS": true,
+        "**/CODE_OF_CONDUCT.md": true,
+        "**/History.md": true,
+        "**/LICENSE": true,
+        "**/pnpm-lock.yaml": true,
+        "**/yarn.lock": true,
+        "**/package-lock.json": true,
+        "**/.gitignore": true,
+        "**/Readme.md": true,
+        // "**/.gitmodules": true,
+
+        "**/api": true,
+        "**/docs": true,
+        // "**/package.json": true
+    }
+}
